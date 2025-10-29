@@ -78,7 +78,7 @@ shadowJar {
     exclude '**/*org/jetbrains/annotations/Nls*'
     exclude 'com/google/**'
     exclude 'dalvik/**'
-    exclude 'org.codehaus.stax2/**'
+    exclude 'org/codehaus/**'
 
 
     dependencies {
